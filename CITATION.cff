@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying article."
 title: "Person-specific links between negative affect, coping, and suicidal ideation (PRECISE): data and code"
 authors:
-  - family-names: Kuehn
-    given-names: Kevin S.
   - family-names: Caudle
     given-names: Morgan
   - family-names: Moore
     given-names: Raeanne C.
   - family-names: Depp
     given-names: Colin A.
+  - family-names: Kuehn
+    given-names: Kevin S.
 license: MIT
