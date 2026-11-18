@@ -23,7 +23,7 @@ analysis data exactly (verified against the private files), so every result can 
 | `study_day`, `beep` | EMA day (1 = first day) and prompt within day (1–5) |
 | `prompt_type` | `scheduled` |
 | `completed` | 1 = prompt answered |
-| `si` | screening item: thought about hurting or killing oneself (since last night at prompt 1; in the past few hours at prompts 2–5); 0/1 |
+| `si` | screening item: thought about hurting or killing oneself (since last night at prompt 1; in the past few hours at prompts 2–5); 0/1. Captures self-injurious thoughts broadly, including thoughts of nonsuicidal self-injury, not suicidal thoughts specifically |
 | `intent_suicide_now` | "What is your intention to kill yourself in this moment?" 0 = None, 1 = A little, 2 = Moderate, 3 = A lot, 4 = Severe; asked only when `si` = 1. Primary outcome = `intent_suicide_now` > 0 |
 | `na_sad`, `na_angry`, `na_afraid`, `na_ashamed`, `na_guilty` | negative affect in the past 10 minutes, 0–100 |
 | `mal_rumination`, `mal_distraction`, `mal_avoidance`, `mal_suppression`, `mal_selfinvalidation` | maladaptive strategy used since last prompt, 0/1 |
