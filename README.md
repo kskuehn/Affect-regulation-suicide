@@ -42,7 +42,7 @@ data themselves are identical to those used for the paper.
 | `R/07_sensitivity.R` | `T5` sensitivity and joint models, `T6` multilevel mediation | Results |
 | `R/08_treatment_models.R` | `T7`–`T11`, `T13` change over treatment, compliance | Results: change over treatment |
 | `R/09_lagged_models.R` | `T12` lagged models | Results: temporal precedence |
-| `R/10_figures.R` | figures | Figures |
+| `R/10_figures.R` | Figures 1–2 and S1–S3 | Figures |
 | `R/11_reliability.R` | `S9` multilevel omega for negative affect | Method: Measures |
 | `R/00_import_*.R` | private files from the REDCap exports (study team only) | Method: data processing |
 
