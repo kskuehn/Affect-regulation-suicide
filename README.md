@@ -2,7 +2,7 @@
 
 Data and analysis code for:
 
-> Kuehn, K. S., Caudle, M., Moore, R. C., & Depp, C. A. (under review). *Person-specific links
+> Caudle, M., Moore, R. C., Depp, C. A., & Kuehn, K. S. (under review). *Person-specific links
 > between negative affect, coping, and suicidal ideation.* Submitted to *Suicide and
 > Life-Threatening Behavior*.
 
